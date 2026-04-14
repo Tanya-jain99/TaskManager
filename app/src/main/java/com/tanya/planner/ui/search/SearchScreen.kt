@@ -1,4 +1,4 @@
-package com.tanya.planner.ui.home
+package com.tanya.planner.ui.search
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -28,8 +28,9 @@ import com.tanya.planner.design.grey5
 import com.tanya.planner.design.grey60
 import com.tanya.planner.design.grey8
 import com.tanya.planner.design.white100
+import com.tanya.planner.ui.home.RecentTaskItem
 import com.tanya.planner.ui.theme.PlannerAppBar
-import com.tanya.planner.viewmodel.SearchScreenViewModel
+import com.tanya.planner.viewmodel.search.SearchScreenViewModel
 
 @Composable
 fun SearchScreen(
