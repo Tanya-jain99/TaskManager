@@ -64,7 +64,7 @@ import com.tanya.planner.model.RecentTaskItemModel
 import com.tanya.planner.model.TaskPriority
 import com.tanya.planner.model.TaskStatus
 import com.tanya.planner.ui.theme.PlannerAppBar
-import com.tanya.planner.viewmodel.AddTaskViewModel
+import com.tanya.planner.viewmodel.home.AddTaskViewModel
 import java.time.Instant
 import java.time.LocalDate
 import java.time.ZoneId

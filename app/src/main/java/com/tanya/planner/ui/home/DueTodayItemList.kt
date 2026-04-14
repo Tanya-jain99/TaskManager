@@ -13,7 +13,7 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.navigation.NavHostController
 import com.tanya.planner.design.grey5
-import com.tanya.planner.ui.DueTodayViewModel
+import com.tanya.planner.viewmodel.home.DueTodayViewModel
 import com.tanya.planner.ui.theme.PlannerAppBar
 
 @Composable

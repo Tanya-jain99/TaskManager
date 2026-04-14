@@ -34,7 +34,7 @@ import com.tanya.planner.design.grey5
 import com.tanya.planner.design.grey60
 import com.tanya.planner.design.grey8
 import com.tanya.planner.design.white100
-import com.tanya.planner.viewmodel.HomeScreenViewModel
+import com.tanya.planner.viewmodel.home.HomeScreenViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
